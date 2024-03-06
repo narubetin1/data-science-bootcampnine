@@ -3,10 +3,10 @@ library(tidyverse)
 
 con <- dbConnect(
   PostgreSQL(),
-  host = "satao.db.elephantsql.com",
-  dbname = "cqqppziv",
-  user = "cqqppziv",
-  password = "s2t6r3_u4OgV0uSFdncPB3pVOWNVYbdO",
+  host = "floppy.db.elephantsql.com",
+  dbname = "qxzsqrhf",
+  user = "qxzsqrhf",
+  password = "ERQgrkL1NmHl0m8EnarF6rDh8sDBJTdi",
   port = 5432
 )
 
